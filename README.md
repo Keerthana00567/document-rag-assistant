@@ -51,8 +51,8 @@ This project addresses that problem by combining semantic search with a locally 
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd document-rag
+git clone https://github.com/Keerthana00567/document-rag-assistant.git
+cd document-rag-assistant
 ```
 
 Create a virtual environment:
